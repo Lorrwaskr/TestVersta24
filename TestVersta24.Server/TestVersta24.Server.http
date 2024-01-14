@@ -1,0 +1,6 @@
+@TestVersta24.Server_HostAddress = http://localhost:5015
+
+GET {{TestVersta24.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
